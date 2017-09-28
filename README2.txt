@@ -1,20 +1,17 @@
-THIS IS A README DOC. ABOUT MY FIRST REPOSITORY ON GITHUB
+THIS IS A README DOC. ABOUT REPOSITORY CREATION ON GITHUB
 
 La primera modificación del proyecto se hizo en este archivo!
 
 
-Las instrucciones son:
+Los comandos básicos de git son:
 
-Cuando se hagan cambios en el repositorio:
 
 git init(para crear repositorio)
 --------
-
-git add (para añadir archivo al repositorio)
-git del (...)
+git add (para añadir archivo/modificacion al repositorio)
+git del (..."")
 ---------
 git commit (para "guardar" los cambios en el repositorio local)
-
 git status (para comprobar el estado de los commits en el repositorio)
 ---------
 git pull origin master (para descargar los cambios del repositorio git al local)
